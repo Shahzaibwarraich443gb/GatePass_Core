@@ -1,0 +1,17 @@
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_Migrations.deps.json
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_Migrations.dll
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_Migrations.pdb
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_DBContext.dll
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_Models.dll
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_DBContext.pdb
+D:\GatePass_Core\GatePass_Migrations\bin\Debug\net6.0\GatePass_Models.pdb
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.csproj.AssemblyReference.cache
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.AssemblyInfoInputs.cache
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.AssemblyInfo.cs
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.csproj.CoreCompileInputs.cache
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.csproj.CopyComplete
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.dll
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\refint\GatePass_Migrations.dll
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\GatePass_Migrations.pdb
+D:\GatePass_Core\GatePass_Migrations\obj\Debug\net6.0\ref\GatePass_Migrations.dll

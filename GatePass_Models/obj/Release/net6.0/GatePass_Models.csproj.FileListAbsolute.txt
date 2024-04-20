@@ -1,0 +1,12 @@
+D:\GatePass_Core\GatePass_Models\bin\Release\net6.0\GatePass_Models.deps.json
+D:\GatePass_Core\GatePass_Models\bin\Release\net6.0\GatePass_Models.dll
+D:\GatePass_Core\GatePass_Models\bin\Release\net6.0\GatePass_Models.pdb
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.csproj.AssemblyReference.cache
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.AssemblyInfoInputs.cache
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.AssemblyInfo.cs
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.csproj.CoreCompileInputs.cache
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.dll
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\refint\GatePass_Models.dll
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\GatePass_Models.pdb
+D:\GatePass_Core\GatePass_Models\obj\Release\net6.0\ref\GatePass_Models.dll

@@ -1,0 +1,15 @@
+D:\GatePass_Core\GatePass_DBContext\bin\Debug\net6.0\GatePass_DBContext.deps.json
+D:\GatePass_Core\GatePass_DBContext\bin\Debug\net6.0\GatePass_DBContext.dll
+D:\GatePass_Core\GatePass_DBContext\bin\Debug\net6.0\GatePass_DBContext.pdb
+D:\GatePass_Core\GatePass_DBContext\bin\Debug\net6.0\GatePass_Models.dll
+D:\GatePass_Core\GatePass_DBContext\bin\Debug\net6.0\GatePass_Models.pdb
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.csproj.AssemblyReference.cache
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.AssemblyInfoInputs.cache
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.AssemblyInfo.cs
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.csproj.CoreCompileInputs.cache
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.csproj.CopyComplete
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.dll
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\refint\GatePass_DBContext.dll
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\GatePass_DBContext.pdb
+D:\GatePass_Core\GatePass_DBContext\obj\Debug\net6.0\ref\GatePass_DBContext.dll

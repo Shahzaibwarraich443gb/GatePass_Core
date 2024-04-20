@@ -1,0 +1,14 @@
+D:\GatePass_Core\GatePass_Services\bin\Debug\net6.0\GatePass_Services.deps.json
+D:\GatePass_Core\GatePass_Services\bin\Debug\net6.0\GatePass_Services.runtimeconfig.json
+D:\GatePass_Core\GatePass_Services\bin\Debug\net6.0\GatePass_Services.dll
+D:\GatePass_Core\GatePass_Services\bin\Debug\net6.0\GatePass_Services.pdb
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.csproj.AssemblyReference.cache
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.AssemblyInfoInputs.cache
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.AssemblyInfo.cs
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.csproj.CoreCompileInputs.cache
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.dll
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\refint\GatePass_Services.dll
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.pdb
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\GatePass_Services.genruntimeconfig.cache
+D:\GatePass_Core\GatePass_Services\obj\Debug\net6.0\ref\GatePass_Services.dll
