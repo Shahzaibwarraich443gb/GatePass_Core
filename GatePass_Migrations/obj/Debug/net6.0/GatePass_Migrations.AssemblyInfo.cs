@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GatePass_Migrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b028228f491a9417a50dd77304acf524a0eef5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GatePass_Migrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GatePass_Migrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

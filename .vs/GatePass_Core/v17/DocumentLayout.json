@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "D:\\GatePass_Core\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|d:\\gatepass_core\\gatepass_core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|d:\\gatepass_core\\gatepass_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|solutionrelative:gatepass_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86F09BA-0002-4732-B449-66CF6E68A5F7}|GatePass_DBContext\\GatePass_DBContext.csproj|d:\\gatepass_core\\gatepass_dbcontext\\seeddata\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86F09BA-0002-4732-B449-66CF6E68A5F7}|GatePass_DBContext\\GatePass_DBContext.csproj|solutionrelative:gatepass_dbcontext\\seeddata\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86F09BA-0002-4732-B449-66CF6E68A5F7}|GatePass_DBContext\\GatePass_DBContext.csproj|D:\\GatePass_Core\\gatepass_dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86F09BA-0002-4732-B449-66CF6E68A5F7}|GatePass_DBContext\\GatePass_DBContext.csproj|solutionrelative:gatepass_dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|D:\\GatePass_Core\\gatepass_core\\controllers\\inwardgatepasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|solutionrelative:gatepass_core\\controllers\\inwardgatepasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|D:\\GatePass_Core\\gatepass_core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E413AE86-2C54-4FAA-AFE2-E8E85F095709}|GatePass_Core\\GatePass_Core.csproj|solutionrelative:gatepass_core\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -16,10 +32,6 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -42,7 +54,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "D:\\GatePass_Core\\GatePass_DBContext\\SeedData\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "GatePass_DBContext\\SeedData\\ModelBuilderExtension.cs",
+              "ToolTip": "D:\\GatePass_Core\\GatePass_DBContext\\SeedData\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "GatePass_DBContext\\SeedData\\ModelBuilderExtension.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:54:37.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GatePass_Core\\GatePass_Core\\appsettings.json",
+              "RelativeDocumentMoniker": "GatePass_Core\\appsettings.json",
+              "ToolTip": "D:\\GatePass_Core\\GatePass_Core\\appsettings.json",
+              "RelativeToolTip": "GatePass_Core\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-28T16:44:46.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InwardGatePassController.cs",
+              "DocumentMoniker": "D:\\GatePass_Core\\GatePass_Core\\Controllers\\InwardGatePassController.cs",
+              "RelativeDocumentMoniker": "GatePass_Core\\Controllers\\InwardGatePassController.cs",
+              "ToolTip": "D:\\GatePass_Core\\GatePass_Core\\Controllers\\InwardGatePassController.cs",
+              "RelativeToolTip": "GatePass_Core\\Controllers\\InwardGatePassController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwGYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:38:32.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\GatePass_Core\\GatePass_DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "GatePass_DBContext\\AppDBContext.cs",
+              "ToolTip": "D:\\GatePass_Core\\GatePass_DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "GatePass_DBContext\\AppDBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAswB4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T07:34:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\GatePass_Core\\GatePass_Core\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "GatePass_Core\\Controllers\\AccountController.cs",
@@ -50,8 +113,7 @@
               "RelativeToolTip": "GatePass_Core\\Controllers\\AccountController.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAYwBAAAACHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T13:16:26.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T13:16:26.172Z"
             }
           ]
         },
